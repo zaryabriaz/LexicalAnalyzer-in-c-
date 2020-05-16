@@ -1,0 +1,16 @@
+,
+;
+=
+;
+i
+;
+i
+cout
+"
+My
+name
+is
+zaryab
+"
+endl
+;

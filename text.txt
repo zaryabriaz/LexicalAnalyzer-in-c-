@@ -1,0 +1,8 @@
+int main_(){
+int A_,B_;
+for(int i_=0;i<10;i++)
+{
+cout<<"My name is zaryab"<<endl;
+}
+
+}
